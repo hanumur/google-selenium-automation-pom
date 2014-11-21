@@ -1,8 +1,7 @@
+
 Google's gmail Login page Automation
 
 =================
-
-
 An Implementation of Google's gmail Login page test case automation in Java using the PageObject pattern with Selenium WebDriver.
 ===============
 
