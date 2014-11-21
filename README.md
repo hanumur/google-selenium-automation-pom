@@ -6,10 +6,15 @@ An Implementation of Google's gmail Login page test case automation in Java usin
 
 Task:
 Open site - https://www.google.co.uk/
+
 Click on gmail link
+
 On the login page, click on create an account
+
 Fill in the details without filling in user name
+
 Click on 'Next step'
+
 Verify the error message prompting for the user name.
 
 
