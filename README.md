@@ -3,9 +3,10 @@ Google's gmail Login page Automation
 =================
 
 
-An Implementation of Google's gmail Login page test cases automation in Java using - The PageObject pattern implementation Selenium WebDriver.
+An Implementation of Google's gmail Login page test case automation in Java using the PageObject pattern with Selenium WebDriver.
 ===============
 
+Task:
 Open site - https://www.google.co.uk/
 Click on gmail link
 On the login page, click on create an account
